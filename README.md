@@ -26,7 +26,7 @@ This repository contains a dashboard that displays metrics and results from a ma
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/loan-approval-dashboard.git
+   git clone https://github.com/ItSam77/Pert6
    cd pert6
    ```
 
